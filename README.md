@@ -53,13 +53,13 @@ Cypress(https://www.cypress.io/)\
 [Playwright](https://playwright.dev/)\
 [WebdriverIO](https://webdriver.io/)\
 [Puppeteer](https://pptr.dev/)\
-[TestCafe](https://testcafe.io/)\
+[TestCafe](https://testcafe.io/)
 
 ### GraphQL
 [GraphQL](https://graphql.org/)\
 [Apollo](https://www.apollographql.com/)\
 [Relay](https://relay.dev/)\
-[Hasura](https://hasura.io/)\
+[Hasura](https://hasura.io/)
 
 ### Code Generators
 Bootstrap your project with Static file generators.
